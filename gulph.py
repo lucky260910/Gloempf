@@ -1,1 +1,3 @@
-print("hallo welt")
+hw = "hallo welt"
+print (hw)
+
