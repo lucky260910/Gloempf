@@ -1,8 +1,8 @@
-for n in range(0,100):
+for n in range(0,10000):
   
   
-  if n != 100:
+  if n != 10000:
     print(n+1)
 
-  else:    print("100")
+  else:    print("10000")
 
